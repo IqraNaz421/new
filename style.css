@@ -29,16 +29,16 @@ body{
         transform: translateY(0px);
     }
     25%{
-        transform: translateY(500px);
+        transform: translateY(350px);
     }
     50%{
-        transform: translateY(1000px);
+        transform: translateY(700px);
     }
     75%{
-        transform: translateY(1500px);
+        transform: translateY(1050px);
     }
     100%{
-        transform: translateY(2000px);
+        transform: translateY(1400px);
     }
 }
 
